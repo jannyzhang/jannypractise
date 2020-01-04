@@ -1,0 +1,3 @@
+DEBUG main Log4Test - This is debug message!
+INFO main Log4Test - info
+ERROR main Log4Test - This is error

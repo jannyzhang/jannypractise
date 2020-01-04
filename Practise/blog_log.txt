@@ -1,0 +1,12 @@
+2019-04-13 20:40:27,144 [main] [Log4Test] [DEBUG] - This is debug message!
+2019-04-13 20:40:27,147 [main] [Log4Test] [INFO] - info
+2019-04-13 20:40:27,147 [main] [Log4Test] [ERROR] - This is error
+2019-04-13 20:42:32,088 [main] [Log4Test] [DEBUG] - This is debug message!
+2019-04-13 20:42:32,088 [main] [Log4Test] [INFO] - info
+2019-04-13 20:42:32,088 [main] [Log4Test] [ERROR] - This is error
+2019-04-13 20:42:51,167 [main] [Log4Test] [DEBUG] - This is debug message!
+2019-04-13 20:42:51,169 [main] [Log4Test] [INFO] - info
+2019-04-13 20:42:51,170 [main] [Log4Test] [ERROR] - This is error
+2019-04-13 20:44:14,078 [main] [Log4Test] [DEBUG] - This is debug message!
+2019-04-13 20:44:14,079 [main] [Log4Test] [INFO] - info
+2019-04-13 20:44:14,079 [main] [Log4Test] [ERROR] - This is error
